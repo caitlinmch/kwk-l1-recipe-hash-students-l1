@@ -24,9 +24,9 @@ perfect_10_recipe={
 # All of the ingredients should be symbols and the amounts should be strings. Remember that symbols start with a colon and be sure to sub underscores for spaces.
 
 #2. Write a method that simply returns (not puts) your perfect_10 hash
-def recipe_ingredients(perfect_10_recipe)
-  return perfect_10_recipe
-end
+# def recipe_ingredients(perfect_10_recipe)
+#   return perfect_10_recipe
+# end
 
 #2: Write code that returns the amount of chocolate chips from perfect_10 ingredients that is needed in the recipe.
 def amount_of_chocolate_chips(perfect_10_recipe)
