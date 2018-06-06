@@ -32,7 +32,7 @@ end
 def amount_of_chocolate_chips(perfect_10_recipe)
   amount_of_chocolate_chips=perfect_10_recipe[7].
 end
-putes amount_of_chocolate_chips(perfect_10_recipe).each_value
+puts amount_of_chocolate_chips(perfect_10_recipe).each_value
   
   
 
