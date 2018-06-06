@@ -33,6 +33,7 @@ def amount_of_chocolate_chips(perfect_10_recipe)
   amount_of_chocolate_chips=perfect_10_recipe[7].value
   puts amount_of_chocolate_chips
 end
+amount_of_chocolate_chips(perfect_10_recipe) 
   
   
 end
