@@ -31,8 +31,8 @@ end
 #2: Write code that returns the amount of chocolate chips from perfect_10 ingredients that is needed in the recipe.
 def amount_of_chocolate_chips(perfect_10_recipe)
   amount_of_chocolate_chips=perfect_10_recipe[7].
-end
 puts amount_of_chocolate_chips(perfect_10_recipe).each_value
+end
   
   
 
